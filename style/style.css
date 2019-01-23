@@ -20,13 +20,31 @@ h2{
 	font-size: 40px;
 }
 
+h3{
+	font-size: 30px;
+}
+
+p{
+	font-size: 20px;
+	font-family: 'Roboto Slab', serif;
+}
+
 .textBox{
+	margin-top: 5%;
+	margin-bottom: 8%;
 	width: 60%;
-	height: 30%;
+	height: auto;
+	padding: 3%;
 	background-color: white;
 	position: relative;
 	top: 5%;
 	left: 5%;
 	border: 2px solid black;
 	box-shadow: 5px 8px #4b4a4c;
+}
+
+.speakinMyPiece{
+	float: left;
+	margin: 2%;
+	border: 1px solid black;
 }
