@@ -49,3 +49,8 @@ p{
 	margin: 2%;
 	border: 1px solid black;
 }
+
+.silkRoad{
+	max-width: 80%;
+	height: auto;
+}
